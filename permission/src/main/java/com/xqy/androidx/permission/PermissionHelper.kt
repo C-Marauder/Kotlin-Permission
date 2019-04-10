@@ -1,4 +1,4 @@
-package com
+package com.xqy.androidx.permission
 
 import android.content.pm.PackageManager
 import androidx.appcompat.app.AppCompatActivity
